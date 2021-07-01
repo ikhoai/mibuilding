@@ -1,0 +1,5729 @@
+@media (min-width: 768px) {
+  .ladi-section .ladi-container {
+    width: 960px;
+  }
+}
+@media (max-width: 767px) {
+  .ladi-section .ladi-container {
+    width: 420px;
+  }
+}
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+@media (min-width: 768px) {
+  #SECTION_POPUP {
+    height: 0px;
+  }
+  #SECTION33 {
+    height: 1210.66px;
+  }
+  #BOX35 {
+    width: 1251px;
+    height: 510px;
+    top: -107.541px;
+    left: 368px;
+  }
+  #BOX35 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      95deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    background: linear-gradient(
+      95deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    border-bottom-left-radius: 1000px;
+  }
+  #BOX37 {
+    width: 87.34px;
+    height: 87.34px;
+    top: 405.66px;
+    left: -135px;
+  }
+  #BOX37 > .ladi-box {
+    background: rgba(129, 215, 150, 0.7);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(129, 215, 150, 0.7),
+      rgba(52, 188, 182, 0.7)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(129, 215, 150, 0.7),
+      rgba(52, 188, 182, 0.7)
+    );
+    border-radius: 500px;
+  }
+  #BOX38 {
+    width: 323px;
+    height: 323px;
+    top: 395.66px;
+    left: -397px;
+  }
+  #BOX38 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    border-radius: 500px;
+  }
+  #IMAGE39 {
+    width: 115px;
+    height: 115px;
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+
+  #IMAGE39 img {
+    height: 100%;
+  }
+
+  #IMAGE39 > .ladi-image > .ladi-image-background {
+    width: 310.151px;
+    height: 104.03px;
+    top: -10px;
+    left: 0px;
+    background-image: url('../images/mi_design_logo.jpg');
+  }
+  #HEADLINE40 {
+    width: 471px;
+    top: 252.16px;
+    left: 24px;
+  }
+  #HEADLINE40 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 40, 47);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+    letter-spacing: 0px;
+    line-height: 1.2;
+  }
+  #HEADLINE41 {
+    width: 480px;
+    top: 343.83px;
+    left: 24px;
+  }
+  #HEADLINE41 > .ladi-headline {
+    color: rgb(34, 40, 47);
+    font-size: 12px;
+    line-height: 1.8;
+  }
+  #BUTTON42 {
+    width: 324px;
+    height: 54.3396px;
+    top: 459.82px;
+    left: 24px;
+  }
+  #BUTTON42 > .ladi-button {
+    border-style: solid;
+    border-color: rgb(252, 134, 121);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #BUTTON42.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #BUTTON42 > .ladi-button:hover {
+    border-color: rgb(255, 255, 255);
+  }
+  #BUTTON42 > .ladi-button:hover .ladi-button-background {
+    background-color: rgb(252, 135, 121);
+    background-image: none;
+  }
+  #BUTTON_TEXT42 {
+    width: 262px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT42 > .ladi-headline {
+    color: rgb(244, 64, 37);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT42 > .ladi-headline:hover {
+    color: rgb(255, 255, 255);
+  }
+  #GROUP44 {
+    width: 501.34px;
+    height: 90.67px;
+    top: 138.99px;
+    left: 5.66px;
+  }
+  #BOX45 {
+    width: 40.34px;
+    height: 40.34px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX45 > .ladi-box {
+    background-color: rgb(252, 134, 121);
+    border-radius: 500px;
+  }
+  #HEADLINE46 {
+    width: 480px;
+    top: 34.67px;
+    left: 21.34px;
+  }
+  #HEADLINE46 > .ladi-headline {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.6;
+  }
+  #SECTION62 {
+    height: 292.66px;
+  }
+  #HEADLINE63 {
+    width: 439px;
+    top: 19px;
+    left: 260.5px;
+  }
+  #HEADLINE63 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #LINE64 {
+    width: 111px;
+    top: 77.5px;
+    left: 424.5px;
+  }
+  #LINE64 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(238, 238, 238);
+    border-right: 2px solid rgb(238, 238, 238);
+    border-bottom: 2px solid rgb(238, 238, 238);
+    border-left: 0px !important;
+  }
+  #LINE64 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #GROUP65 {
+    width: 150px;
+    height: 104px;
+    top: 114.75px;
+    left: 69px;
+  }
+  #HEADLINE66 {
+    width: 97px;
+    top: 0px;
+    left: 26.5px;
+  }
+  #HEADLINE66 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE67 {
+    width: 150px;
+    top: 76px;
+    left: 0px;
+  }
+  #HEADLINE67 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP68 {
+    width: 154.5px;
+    height: 104px;
+    top: 114.75px;
+    left: 293.5px;
+  }
+  #HEADLINE69 {
+    width: 147px;
+    top: 0px;
+    left: 0px;
+  }
+  #HEADLINE69 > .ladi-headline {
+    color: rgb(252, 135, 121);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE70 {
+    width: 150px;
+    top: 76px;
+    left: 4.5px;
+  }
+  #HEADLINE70 > .ladi-headline {
+    color: rgb(5, 31, 77);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP71 {
+    width: 163px;
+    height: 104px;
+    top: 114.75px;
+    left: 517px;
+  }
+  #HEADLINE72 {
+    width: 123px;
+    top: 0px;
+    left: 18.5px;
+  }
+  #HEADLINE72 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE73 {
+    width: 163px;
+    top: 76px;
+    left: 0px;
+  }
+  #HEADLINE73 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP74 {
+    width: 194px;
+    height: 104px;
+    top: 114.75px;
+    left: 731px;
+  }
+  #HEADLINE75 {
+    width: 126px;
+    top: 0px;
+    left: 24.2733px;
+  }
+  #HEADLINE75 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE76 {
+    width: 194px;
+    top: 76px;
+    left: 0px;
+  }
+  #HEADLINE76 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LINE77 {
+    height: 104px;
+    top: 114.75px;
+    left: 245.5px;
+  }
+  #LINE77 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE77 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #LINE78 {
+    height: 104px;
+    top: 114.75px;
+    left: 471.5px;
+  }
+  #LINE78 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE78 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #LINE79 {
+    height: 104px;
+    top: 114.75px;
+    left: 699.5px;
+  }
+  #LINE79 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE79 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION210 {
+    height: 594.9px;
+  }
+  #SECTION210 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #HEADLINE212 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE212 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE216 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE216 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE216 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION242 {
+    height: 649.9px;
+  }
+  #SECTION242 > .ladi-section-background {
+    background-color: rgb(248, 248, 248);
+  }
+  #GROUP265 {
+    width: 700px;
+    height: 121px;
+    top: 53.876px;
+    left: 141px;
+  }
+  #LINE266 {
+    width: 86px;
+    top: 79px;
+    left: 301px;
+  }
+  #LINE266 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgba(252, 135, 121, 0.2);
+    border-right: 2px solid rgba(252, 135, 121, 0.2);
+    border-bottom: 2px solid rgba(252, 135, 121, 0.2);
+    border-left: 0px !important;
+  }
+  #LINE266 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #PARAGRAPH267 {
+    width: 700px;
+    top: 104px;
+    left: 0px;
+  }
+  #PARAGRAPH267 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE268 {
+    width: 412px;
+    top: 0px;
+    left: 137.5px;
+  }
+  #HEADLINE268 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #SECTION294 {
+    height: 603.9px;
+  }
+  #IMAGE295 {
+    width: 491px;
+    height: 603.9px;
+    top: 0px;
+    left: -359px;
+  }
+  #IMAGE295 > .ladi-image > .ladi-overlay {
+    background: rgba(255, 255, 255, 0);
+    background: -webkit-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 1)
+    );
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 1)
+    );
+  }
+  #IMAGE295 > .ladi-image > .ladi-image-background {
+    width: 555px;
+    height: 832.5px;
+    top: -228.6px;
+    left: -64px;
+    background-image: url('../images/kfbxlz5p20200414062617_1.jpg');
+  }
+  #HEADLINE296 {
+    width: 432px;
+    top: 87.734px;
+    left: 0px;
+  }
+  #HEADLINE296 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  #GROUP297 {
+    width: 360px;
+    height: 429.4px;
+    top: 93.034px;
+    left: 600px;
+  }
+  #BOX298 {
+    width: 360px;
+    height: 429.4px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX298 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+  }
+  #FORM299 {
+    width: 280.47px;
+    height: 255px;
+    top: 137.45px;
+    left: 40.0617px;
+  }
+  #FORM299 > .ladi-form {
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+  }
+  #FORM299 .ladi-form-item .ladi-form-control::placeholder,
+  #FORM299
+    .ladi-form
+    .ladi-form-item
+    .ladi-form-control-select[data-selected=''],
+  #FORM299
+    .ladi-form
+    .ladi-form-item.ladi-form-checkbox
+    .ladi-form-checkbox-item
+    span[data-checked='false'] {
+    color: rgba(34, 41, 47, 1);
+  }
+  #FORM299 .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #FORM299 .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  #FORM299 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20rgba(34%2C%2041%2C%2047%2C%201.0)%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E');
+  }
+  #FORM299 .ladi-form-item-container {
+    border-color: rgb(10, 103, 233);
+    border-width: 1px;
+    border-radius: 0px;
+  }
+  #FORM299 .ladi-form-item-container .ladi-form-quantity button {
+    background-color: rgb(10, 103, 233);
+  }
+  #FORM299 .ladi-form-item-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #BUTTON300 {
+    width: 280.47px;
+    height: 40px;
+    top: 215px;
+    left: 0px;
+  }
+  #BUTTON300 > .ladi-button > .ladi-button-background {
+    background-color: rgb(34, 41, 47);
+  }
+  #BUTTON300 > .ladi-button {
+    border-radius: 0px;
+  }
+  #BUTTON_TEXT300 {
+    width: 280px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT300 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #FORM_ITEM302 {
+    width: 279.657px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+  }
+  #FORM_ITEM304 {
+    width: 279.657px;
+    height: 40px;
+    top: 48px;
+    left: 0px;
+  }
+  #HEADLINE305 {
+    width: 280px;
+    top: 35.704px;
+    left: 40px;
+  }
+  #HEADLINE305 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+  }
+  #LIST_PARAGRAPH308 {
+    width: 590px;
+    top: 221.734px;
+    left: 1.5px;
+  }
+  #LIST_PARAGRAPH308 > .ladi-list-paragraph {
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH308 ul li {
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+  #LIST_PARAGRAPH308 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201536%201896.0833%22%20fill%3D%22rgba(5%2C%2034%2C%2074%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M768%20256q-130%200-248.5%2051t-204%20136.5-136.5%20204T128%20896t51%20248.5%20136.5%20204%20204%20136.5%20248.5%2051%20248.5-51%20204-136.5%20136.5-204%2051-248.5-51-248.5-136.5-204-204-136.5T768%20256zm768%20640q0%20209-103%20385.5T1153.5%201561%20768%201664t-385.5-103T103%201281.5%200%20896t103-385.5T382.5%20231%20768%20128t385.5%20103T1433%20510.5%201536%20896z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 10px;
+    height: 10px;
+    top: 6px;
+  }
+  #HEADLINE326 {
+    width: 429px;
+    top: 171.734px;
+    left: 1.5px;
+  }
+  #HEADLINE326 > .ladi-headline {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    line-height: 1.6;
+  }
+  #SECTION327 {
+    height: 425.9px;
+  }
+  #SECTION327 > .ladi-section-background {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+  }
+  #GROUP328 {
+    width: 639.799px;
+    height: 173.5px;
+    top: 75.33px;
+    left: 3.06581px;
+  }
+  #HEADLINE329 {
+    width: 451px;
+    top: 0px;
+    left: 2px;
+  }
+  #HEADLINE329 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP330 {
+    width: 421px;
+    height: 23px;
+    top: 50.5px;
+    left: 2px;
+  }
+  #SHAPE331 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE331 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE332 {
+    width: 388px;
+    top: 4px;
+    left: 33px;
+  }
+  #HEADLINE332 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP333 {
+    width: 325px;
+    height: 22.5469px;
+    top: 84.286px;
+    left: 2px;
+  }
+  #SHAPE334 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE334 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE335 {
+    width: 292px;
+    top: 2px;
+    left: 33px;
+  }
+  #HEADLINE335 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP336 {
+    width: 325px;
+    height: 22.5469px;
+    top: 117.62px;
+    left: 2px;
+  }
+  #SHAPE337 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE337 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE338 {
+    width: 292px;
+    top: 2px;
+    left: 33px;
+  }
+  #HEADLINE338 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP339 {
+    width: 639.799px;
+    height: 22.5469px;
+    top: 150.953px;
+    left: 0px;
+  }
+  #SHAPE340 {
+    width: 28.7993px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE340 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE341 {
+    width: 607px;
+    top: 1.5469px;
+    left: 32.799px;
+  }
+  #HEADLINE341 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP342 {
+    width: 433px;
+    height: 112.174px;
+    top: 75.33px;
+    left: 585.066px;
+  }
+  #HEADLINE343 {
+    width: 283px;
+    top: 0px;
+    left: 0px;
+  }
+  #HEADLINE343 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #GROUP344 {
+    width: 243.65px;
+    height: 22.6801px;
+    top: 54.5px;
+    left: 1px;
+  }
+  #HEADLINE345 {
+    width: 211px;
+    top: 0px;
+    left: 32.65px;
+  }
+  #HEADLINE345 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE346 {
+    width: 22.6801px;
+    height: 22.6801px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE346 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP347 {
+    width: 242.65px;
+    height: 19px;
+    top: 87.059px;
+    left: 2px;
+  }
+  #HEADLINE348 {
+    width: 211px;
+    top: 0px;
+    left: 31.65px;
+  }
+  #HEADLINE348 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE349 {
+    width: 18.4385px;
+    height: 18.4658px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE349 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP350 {
+    width: 176px;
+    height: 22px;
+    top: 50.5px;
+    left: 251px;
+  }
+  #HEADLINE351 {
+    width: 141px;
+    top: 3px;
+    left: 35px;
+  }
+  #HEADLINE351 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE352 {
+    width: 21.3362px;
+    height: 21.3362px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE352 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP353 {
+    width: 179.65px;
+    height: 24.6135px;
+    top: 87.56px;
+    left: 253.35px;
+  }
+  #HEADLINE354 {
+    width: 147px;
+    top: 0px;
+    left: 32.65px;
+  }
+  #HEADLINE354 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE355 {
+    width: 22.2998px;
+    height: 24.6135px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE355 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #FRAME356 {
+    width: 196px;
+    height: 41.306px;
+    top: 208.524px;
+    left: 587.066px;
+  }
+  #FRAME356 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #IMAGE357 {
+    width: 35.5258px;
+    height: 22.6523px;
+    top: 9.805px;
+    left: 60.688px;
+  }
+  #IMAGE357 > .ladi-image > .ladi-image-background {
+    width: 35.5258px;
+    height: 22.6523px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../fonts/mastercard-20200311062250-20200312040745.svg');
+  }
+  #IMAGE358 {
+    width: 35.526px;
+    height: 22.6523px;
+    top: 9.805px;
+    left: 18.532px;
+  }
+  #IMAGE358 > .ladi-image > .ladi-image-background {
+    width: 35.526px;
+    height: 22.6523px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../fonts/visa-20200311062250-20200312040726.svg');
+  }
+  #IMAGE359 {
+    width: 79.4545px;
+    height: 30.4573px;
+    top: 6px;
+    left: 100.214px;
+  }
+  #IMAGE359 > .ladi-image > .ladi-image-background {
+    width: 79.4545px;
+    height: 30.4573px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../fonts/bo-cong-thuong-20200311062345-20200312040731.svg');
+  }
+  #LINE360 {
+    width: 960px;
+    top: 293.83px;
+    left: 3.06581px;
+  }
+  #LINE360 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-left: 0px !important;
+  }
+  #LINE360 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #HEADLINE361 {
+    width: 391px;
+    top: 327.83px;
+    left: 305.066px;
+  }
+  #HEADLINE361 > .ladi-headline {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #SECTION425 {
+    height: 780.9px;
+  }
+  #SECTION425 > .ladi-section-background {
+    background-color: rgb(234, 242, 255);
+  }
+  #GROUP456 {
+    width: 590px;
+    height: 71.4814px;
+    top: 53.45px;
+    left: 180.485px;
+  }
+  #HEADLINE457 {
+    width: 470px;
+    top: 0px;
+    left: 73px;
+  }
+  #HEADLINE457 > .ladi-headline {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #PARAGRAPH458 {
+    width: 590px;
+    top: 45.5585px;
+    left: 0px;
+  }
+  #PARAGRAPH458 > .ladi-paragraph {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #FORM_ITEM459 {
+    width: 280.47px;
+    height: 100px;
+    top: 98px;
+    left: 0px;
+  }
+  #CAROUSEL460 {
+    width: 958.75px;
+    height: 353.95px;
+    top: 218.95px;
+    left: 1.5px;
+  }
+  #SHAPE462 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -25.6245px;
+  }
+  #SHAPE462 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE462 svg:last-child {
+    fill: url('index.html#SHAPE462_desktop_gradient');
+  }
+  #SHAPE463 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE463 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH464 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH464 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE465 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE465 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/setvr-20200226032418.jpg');
+  }
+  #IMAGE465 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE466 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE466 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE467 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE467 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME461 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 29px;
+  }
+  #FRAME461 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME461 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #SHAPE470 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -24.6245px;
+  }
+  #SHAPE470 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE470 svg:last-child {
+    fill: url('index.html#SHAPE470_desktop_gradient');
+  }
+  #SHAPE471 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE471 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH472 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH472 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE473 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE473 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/ryer5vy-20200226032419.jpg');
+  }
+  #IMAGE473 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE474 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE474 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE475 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE475 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME469 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 646px;
+  }
+  #FRAME469 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME469 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #SHAPE477 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -25.6245px;
+  }
+  #SHAPE477 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE477 svg:last-child {
+    fill: url('index.html#SHAPE477_desktop_gradient');
+  }
+  #SHAPE478 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE478 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH479 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH479 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE480 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE480 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/fdsvrt-20200226032418.jpg');
+  }
+  #IMAGE480 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE481 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE481 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE482 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE482 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME476 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 340px;
+  }
+  #FRAME476 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME476 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #CAROUSEL483 {
+    width: 960px;
+    height: 569.2px;
+    top: 146.7px;
+    left: 0.5565px;
+  }
+  #BOX486 {
+    width: 301px;
+    height: 473px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX486 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH487 {
+    width: 246px;
+    top: 171px;
+    left: 23.985px;
+  }
+  #PARAGRAPH487 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH488 {
+    width: 274px;
+    top: 242px;
+    left: 15.485px;
+  }
+  #LIST_PARAGRAPH488 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH488 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH488 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX489 {
+    width: 91px;
+    height: 91px;
+    top: 40.5px;
+    left: 101.485px;
+  }
+  #BOX489 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH490 {
+    width: 263px;
+    top: 149px;
+    left: 15.485px;
+  }
+  #PARAGRAPH490 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT491 {
+    width: 176px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT491 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT491.ladi-animation > .ladi-headline {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #BUTTON491 {
+    width: 175px;
+    height: 40px;
+    top: 407px;
+    left: 60.985px;
+  }
+  #BUTTON491 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON491 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON491.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE493 {
+    width: 55px;
+    height: 55px;
+    top: 57.5px;
+    left: 120.985px;
+  }
+  #SHAPE493 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP485 {
+    width: 301px;
+    height: 473px;
+    top: 49px;
+    left: 6px;
+  }
+  #BOX496 {
+    width: 301px;
+    height: 48.249px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX496 > .ladi-box {
+    background-color: rgb(13, 98, 242);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+  }
+  #PARAGRAPH497 {
+    width: 263px;
+    top: 14.7701px;
+    left: 14.485px;
+  }
+  #PARAGRAPH497 > .ladi-paragraph {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BOX498 {
+    width: 301px;
+    height: 465.751px;
+    top: 48.249px;
+    left: 0px;
+  }
+  #BOX498 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH499 {
+    width: 269px;
+    top: 224.013px;
+    left: 15.485px;
+  }
+  #PARAGRAPH499 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH500 {
+    width: 216px;
+    top: 286.54px;
+    left: 37.485px;
+  }
+  #LIST_PARAGRAPH500 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH500 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH500 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX501 {
+    width: 91px;
+    height: 89.6054px;
+    top: 88.1284px;
+    left: 101.485px;
+  }
+  #BOX501 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH502 {
+    width: 263px;
+    top: 194.966px;
+    left: 15.485px;
+  }
+  #PARAGRAPH502 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT503 {
+    width: 176px;
+    top: 8.86207px;
+    left: 0px;
+  }
+  #BUTTON_TEXT503 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON503 {
+    width: 175px;
+    height: 39.387px;
+    top: 449.299px;
+    left: 57.985px;
+  }
+  #BUTTON503 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON503 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON503.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE505 {
+    width: 55px;
+    height: 54.1571px;
+    top: 104.868px;
+    left: 120.985px;
+  }
+  #SHAPE505 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP495 {
+    width: 301px;
+    height: 514px;
+    top: 8px;
+    left: 329.5px;
+  }
+  #BOX509 {
+    width: 301px;
+    height: 473px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX509 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH510 {
+    width: 269px;
+    top: 171px;
+    left: 15px;
+  }
+  #PARAGRAPH510 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH511 {
+    width: 216px;
+    top: 242px;
+    left: 37.485px;
+  }
+  #LIST_PARAGRAPH511 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH511 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH511 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX512 {
+    width: 91px;
+    height: 91px;
+    top: 40.5px;
+    left: 101.485px;
+  }
+  #BOX512 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH513 {
+    width: 263px;
+    top: 149px;
+    left: 15.485px;
+  }
+  #PARAGRAPH513 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT514 {
+    width: 176px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT514 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON514 {
+    width: 175px;
+    height: 40px;
+    top: 396px;
+    left: 57.985px;
+  }
+  #BUTTON514 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON514 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON514.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE516 {
+    width: 55px;
+    height: 55px;
+    top: 57.5px;
+    left: 120.985px;
+  }
+  #SHAPE516 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP508 {
+    width: 301px;
+    height: 473px;
+    top: 49px;
+    left: 658.444px;
+  }
+  #SHAPE518 {
+    width: 80px;
+    height: 80px;
+    top: auto;
+    left: 2px;
+    bottom: 2px;
+    right: auto;
+    position: fixed;
+    z-index: 90000050;
+  }
+  #SHAPE518.ladi-animation > .ladi-shape {
+    animation-name: tada;
+    -webkit-animation-name: tada;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE518 svg:last-child {
+    fill: url('index.html#SHAPE518_desktop_gradient');
+  }
+  #FORM_ITEM398 {
+    width: 220px;
+    height: 110.219px;
+    top: 83.656px;
+    left: 0.319px;
+  }
+  #HEADLINE391 {
+    width: 46px;
+    top: 19.892px;
+    left: 180.74px;
+  }
+  #HEADLINE391 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE390 {
+    width: 46px;
+    top: 19.892px;
+    left: 121.626px;
+  }
+  #HEADLINE390 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE389 {
+    width: 46px;
+    top: 19.892px;
+    left: 62.5168px;
+  }
+  #HEADLINE389 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE388 {
+    width: 46px;
+    top: 19.892px;
+    left: 3.40583px;
+  }
+  #HEADLINE388 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #COUNTDOWN383 {
+    width: 226.842px;
+    height: 25.892px;
+    top: 0px;
+    left: 0px;
+  }
+  #COUNTDOWN383 > .ladi-countdown {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  #COUNTDOWN383 > .ladi-countdown > .ladi-element {
+    width: calc((100% - 10px * 3) / 4);
+    margin-right: 10px;
+    height: 100%;
+  }
+  #GROUP382 {
+    width: 226.842px;
+    height: 38.892px;
+    top: 8.554px;
+    left: 33.579px;
+  }
+  #BOX381 {
+    width: 294px;
+    height: 56px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX381 > .ladi-box {
+    background-color: rgba(6, 34, 75, 0.9);
+    border-radius: 0px;
+  }
+  #GROUP380 {
+    width: 294px;
+    height: 56px;
+    top: 0px;
+    left: 0px;
+  }
+  #FORM_ITEM378 {
+    width: 219.362px;
+    height: 32.4878px;
+    top: 41.4219px;
+    left: 0.319px;
+  }
+  #FORM_ITEM376 {
+    width: 219.362px;
+    height: 32.4878px;
+    top: 0px;
+    left: 0.319px;
+  }
+  #BUTTON_TEXT374 {
+    width: 220px;
+    top: 7.30976px;
+    left: 0px;
+  }
+  #BUTTON_TEXT374 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON374 {
+    width: 220px;
+    height: 32.4878px;
+    top: 205.485px;
+    left: 0px;
+  }
+  #BUTTON374 > .ladi-button > .ladi-button-background {
+    background-color: rgb(244, 64, 37);
+  }
+  #BUTTON374 > .ladi-button {
+    border-radius: 0px;
+  }
+  #FORM373 {
+    width: 220.319px;
+    height: 237.973px;
+    top: 21.973px;
+    left: 37px;
+  }
+  #FORM373 > .ladi-form {
+    color: rgb(132, 132, 132);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+  }
+  #FORM373 .ladi-form-item .ladi-form-control::placeholder,
+  #FORM373
+    .ladi-form
+    .ladi-form-item
+    .ladi-form-control-select[data-selected=''],
+  #FORM373
+    .ladi-form
+    .ladi-form-item.ladi-form-checkbox
+    .ladi-form-checkbox-item
+    span[data-checked='false'] {
+    color: rgba(132, 132, 132, 1);
+  }
+  #FORM373 .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #FORM373 .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  #FORM373 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20rgba(132%2C%20132%2C%20132%2C%201.0)%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E');
+  }
+  #FORM373 .ladi-form-item-container {
+    border-style: solid;
+    border-color: rgb(10, 103, 233);
+    border-width: 1px;
+    border-radius: 0px;
+  }
+  #FORM373 .ladi-form-item-container .ladi-form-quantity button {
+    background-color: rgb(10, 103, 233);
+  }
+  #BOX371 {
+    width: 294px;
+    height: 277.946px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX371 > .ladi-box {
+    box-shadow: 2px 7px 15px 0px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 2px 7px 15px 0px rgba(0, 0, 0, 0.2);
+    background-color: rgb(255, 255, 255);
+  }
+  #GROUP370 {
+    width: 294px;
+    height: 277.946px;
+    top: 56px;
+    left: 0px;
+  }
+  #GROUP369 {
+    width: 294px;
+    height: 333.946px;
+    top: 33.027px;
+    left: 346px;
+  }
+  #IMAGE364 {
+    width: 284px;
+    height: 400px;
+    top: 0px;
+    left: 178px;
+  }
+  #IMAGE364 > .ladi-image > .ladi-image-background {
+    width: 597.665px;
+    height: 400px;
+    top: 0px;
+    left: -107px;
+    background-image: url('../images/nfyksztg20200521045814.jpg');
+  }
+  #POPUP362 {
+    width: 960px;
+    height: 400px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  #IMAGE211 {
+    width: 312.113px;
+    height: 417px;
+    top: 141.95px;
+    left: 0px;
+  }
+  #IMAGE211 > .ladi-image > .ladi-image-background {
+    width: 349.89px;
+    height: 438.004px;
+    top: -21.004px;
+    left: -23.9733px;
+    background-image: url('../images/1-819x1024-20201118094205_1.jpg');
+  }
+  #IMAGE519 {
+    width: 312.113px;
+    height: 417px;
+    top: 141.95px;
+    left: 323.944px;
+  }
+  #IMAGE519 > .ladi-image > .ladi-image-background {
+    width: 366.722px;
+    height: 459px;
+    top: -41px;
+    left: -48.7484px;
+    background-image: url('../images/pc2-20201118094425_1.jpg');
+  }
+  #IMAGE520 {
+    width: 312.113px;
+    height: 417px;
+    top: 141.95px;
+    left: 647.057px;
+  }
+  #IMAGE520 > .ladi-image > .ladi-image-background {
+    width: 604.291px;
+    height: 423.004px;
+    top: -6.004px;
+    left: -128.544px;
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525_2.jpg');
+  }
+  #IMAGE535 {
+    width: 464.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 6px;
+  }
+  #IMAGE535 > .ladi-image > .ladi-image-background {
+    width: 694.472px;
+    height: 451px;
+    top: -34px;
+    left: -173.528px;
+    background-image: url('../images/pc-2-1024x666-20201118100338.jpg');
+  }
+  #HEADLINE536 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE536 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE537 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE537 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE537 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION534 {
+    height: 594.9px;
+  }
+  #SECTION534 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE541 {
+    width: 488.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 485.226px;
+  }
+  #IMAGE541 > .ladi-image > .ladi-image-background {
+    width: 488.944px;
+    height: 616.802px;
+    top: -140.526px;
+    left: 0px;
+    background-image: url('../images/em-quynh-1-20201118100403_1.jpg');
+  }
+  #IMAGE543 {
+    width: 312.113px;
+    height: 417px;
+    top: 141.95px;
+    left: -82px;
+  }
+  #IMAGE543 > .ladi-image > .ladi-image-background {
+    width: 349.89px;
+    height: 438.004px;
+    top: -21.0038px;
+    left: -28.9733px;
+    background-image: url('../images/2-819x1024-20201118100204.jpg');
+  }
+  #HEADLINE544 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE544 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE545 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE545 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE545 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE546 {
+    width: 312.113px;
+    height: 417px;
+    top: 141.95px;
+    left: 241.944px;
+  }
+  #IMAGE546 > .ladi-image > .ladi-image-background {
+    width: 433px;
+    height: 433px;
+    top: -16px;
+    left: -54.7484px;
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340_1.jpg');
+  }
+  #IMAGE547 {
+    width: 518.113px;
+    height: 417px;
+    top: 141.95px;
+    left: 565.057px;
+  }
+  #IMAGE547 > .ladi-image > .ladi-image-background {
+    width: 755.681px;
+    height: 424.333px;
+    top: -2.004px;
+    left: -112.568px;
+    background-image: url('../images/z1144237309678_c06f9668cb6b2364ee6c067be7c08393-1024x576-20201118100251.jpg');
+  }
+  #SECTION542 {
+    height: 594.9px;
+  }
+  #SECTION542 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE549 {
+    width: 567.944px;
+    height: 417px;
+    top: 141.95px;
+    left: -43px;
+  }
+  #IMAGE549 > .ladi-image > .ladi-image-background {
+    width: 567.944px;
+    height: 425.403px;
+    top: -8px;
+    left: 0px;
+    background-image: url('../images/nha-ong-thao-4-1024x768-20201118095314.jpg');
+  }
+  #HEADLINE550 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE550 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE551 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE551 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE551 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE552 {
+    width: 464.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 539.226px;
+  }
+  #IMAGE552 > .ladi-image > .ladi-image-background {
+    width: 464.944px;
+    height: 464.944px;
+    top: -47.944px;
+    left: 0px;
+    background-image: url('../images/4-3-1024x1024-20201118095326_1.jpg');
+  }
+  #SECTION548 {
+    height: 594.9px;
+  }
+  #SECTION548 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE554 {
+    width: 464.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 6px;
+  }
+  #IMAGE554 > .ladi-image > .ladi-image-background {
+    width: 760.432px;
+    height: 427px;
+    top: -10px;
+    left: -120.488px;
+    background-image: url('../images/z1133908152162_1497fabc4714e0ca1b96b61ce443f81f-1024x576-20201118110524.jpg');
+  }
+  #HEADLINE555 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE555 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE556 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE556 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE556 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE557 {
+    width: 464.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 485.226px;
+  }
+  #IMAGE557 > .ladi-image > .ladi-image-background {
+    width: 556px;
+    height: 417px;
+    top: 0px;
+    left: -43.0747px;
+    background-image: url('../images/chi-giang-thuy-nguyen-hai-phong-6860-4-20201118110540.jpg');
+  }
+  #SECTION553 {
+    height: 594.9px;
+  }
+  #SECTION553 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE559 {
+    width: 519.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 31px;
+  }
+  #IMAGE559 > .ladi-image > .ladi-image-background {
+    width: 556.725px;
+    height: 417px;
+    top: 0px;
+    left: -34.7809px;
+    background-image: url('../images/nha-ong-thao-3-1024x768-20201118094826_1.jpg');
+  }
+  #HEADLINE560 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE560 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE561 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE561 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE561 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE562 {
+    width: 344.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 582.226px;
+  }
+  #IMAGE562 > .ladi-image > .ladi-image-background {
+    width: 365.251px;
+    height: 449px;
+    top: -9px;
+    left: -9px;
+    background-image: url('../images/e-dieu-ha-thao-phu-xuyen-hn-6849-833x1024-20201118110721.jpg');
+  }
+  #SECTION558 {
+    height: 594.9px;
+  }
+  #SECTION558 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE563 {
+    width: 460.557px;
+    height: 574px;
+    top: 613.833px;
+    left: -82px;
+  }
+  #IMAGE563 > .ladi-image > .ladi-image-background {
+    width: 483.061px;
+    height: 579.673px;
+    top: 0px;
+    left: -4px;
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743_1.jpg');
+  }
+  #IMAGE564 {
+    width: 701.944px;
+    height: 574px;
+    top: 613.833px;
+    left: 405.056px;
+  }
+  #IMAGE564 > .ladi-image > .ladi-image-background {
+    width: 880.665px;
+    height: 573.181px;
+    top: 0.819309px;
+    left: 0px;
+    background-image: url('../images/z2469639049911_3831ca0b2c016f3855bd8e62766942c8-20210504084814_1.jpg');
+  }
+  #IMAGE566 {
+    width: 550.944px;
+    height: 417px;
+    top: 141.95px;
+    left: -80px;
+  }
+  #IMAGE566 > .ladi-image > .ladi-image-background {
+    width: 654.545px;
+    height: 435px;
+    top: -18px;
+    left: -103.601px;
+    background-image: url('../images/z752118047590_eb6325a4535d83e26116ea739f193e52-20201119030959.jpg');
+  }
+  #HEADLINE567 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE567 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE568 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE568 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE568 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE569 {
+    width: 600.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 485.226px;
+  }
+  #IMAGE569 > .ladi-image > .ladi-image-background {
+    width: 686.634px;
+    height: 417px;
+    top: 0px;
+    left: -68.69px;
+    background-image: url('../images/v11-20201119031829_4.jpg');
+  }
+  #SECTION565 {
+    height: 594.9px;
+  }
+  #SECTION565 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE571 {
+    width: 323.944px;
+    height: 488px;
+    top: 141.95px;
+    left: 296px;
+  }
+  #IMAGE571 > .ladi-image > .ladi-image-background {
+    width: 480.833px;
+    height: 577px;
+    top: -60px;
+    left: -72.9993px;
+    background-image: url('../images/901cac0bd622397c6033-20201119032917.jpg');
+  }
+  #HEADLINE572 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE572 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE573 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE573 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE573 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE574 {
+    width: 349.944px;
+    height: 488px;
+    top: 141.95px;
+    left: 659.226px;
+  }
+  #IMAGE574 > .ladi-image > .ladi-image-background {
+    width: 512.925px;
+    height: 573.101px;
+    top: -59px;
+    left: -88px;
+    background-image: url('../images/z895131440637_a9395fcbe8c40909aec9e69aaa8562fb-20201119033231.jpg');
+  }
+  #SECTION570 {
+    height: 683.9px;
+  }
+  #SECTION570 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE575 {
+    width: 416.944px;
+    height: 488px;
+    top: 141.95px;
+    left: -152.944px;
+  }
+  #IMAGE575 > .ladi-image > .ladi-image-background {
+    width: 434.684px;
+    height: 577px;
+    top: -22px;
+    left: -17.7396px;
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450_1.jpg');
+  }
+  #IMAGE577 {
+    width: 550.944px;
+    height: 818px;
+    top: 141.95px;
+    left: -80px;
+  }
+  #IMAGE577 > .ladi-image > .ladi-image-background {
+    width: 654.545px;
+    height: 836px;
+    top: -18px;
+    left: -103.601px;
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636_2.jpg');
+  }
+  #HEADLINE578 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE578 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE579 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE579 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE579 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE580 {
+    width: 600.944px;
+    height: 812px;
+    top: 141.95px;
+    left: 485.226px;
+  }
+  #IMAGE580 > .ladi-image > .ladi-image-background {
+    width: 812px;
+    height: 812px;
+    top: 0px;
+    left: -119.69px;
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036_4.jpg');
+  }
+  #SECTION576 {
+    height: 1036.9px;
+  }
+  #SECTION576 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE582 {
+    width: 425.944px;
+    height: 580px;
+    top: 141.95px;
+    left: 31px;
+  }
+  #IMAGE582 > .ladi-image > .ladi-image-background {
+    width: 435.05px;
+    height: 616px;
+    top: 0px;
+    left: -3.106px;
+    background-image: url('../images/v1-20201119070033.jpg');
+  }
+  #HEADLINE583 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE583 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE584 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE584 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE584 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE585 {
+    width: 431.944px;
+    height: 580px;
+    top: 141.95px;
+    left: 495.226px;
+  }
+  #IMAGE585 > .ladi-image > .ladi-image-background {
+    width: 457.894px;
+    height: 648.345px;
+    top: -30.3455px;
+    left: -11.95px;
+    background-image: url('../images/26133471_1736099936456197_756279649_n-20201119070245.jpg');
+  }
+  #SECTION581 {
+    height: 777.9px;
+  }
+  #SECTION581 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE587 {
+    width: 425.944px;
+    height: 453px;
+    top: 141.95px;
+    left: 31px;
+  }
+  #IMAGE587 > .ladi-image > .ladi-image-background {
+    width: 518.524px;
+    height: 649px;
+    top: -128px;
+    left: -68.5799px;
+    background-image: url('../images/21433214123515-20201119070938_1.png');
+  }
+  #HEADLINE588 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE588 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE589 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE589 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE589 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE590 {
+    width: 431.944px;
+    height: 969px;
+    top: 149.95px;
+    left: 495.226px;
+  }
+  #IMAGE590 > .ladi-image > .ladi-image-background {
+    width: 796.277px;
+    height: 995.346px;
+    top: -26.346px;
+    left: -166.606px;
+    background-image: url('../images/2-20201119070901_1.jpg');
+  }
+  #SECTION586 {
+    height: 1212.9px;
+  }
+  #SECTION586 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE591 {
+    width: 425.944px;
+    height: 545px;
+    top: 604.003px;
+    left: 31px;
+  }
+  #IMAGE591 > .ladi-image > .ladi-image-background {
+    width: 435px;
+    height: 580px;
+    top: -35px;
+    left: 0px;
+    background-image: url('../images/nhanhhoi-20201119071232.jpg');
+  }
+  #IMAGE599 {
+    width: 80px;
+    height: 75.904px;
+    top: auto;
+    left: 2px;
+    bottom: 80px;
+    right: auto;
+    position: fixed;
+    z-index: 90000050;
+  }
+  #IMAGE599 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 75.904px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/logo-zalo-png-20201117043754.png');
+  }
+  #NOTIFY600 {
+    width: 400px;
+    height: 62px;
+    top: auto;
+    left: auto;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+    z-index: 90000060;
+  }
+  #SHAPE602 {
+    width: 40px;
+    height: 49.3772px;
+    top: 462.301px;
+    left: 405.056px;
+  }
+  #SHAPE602.ladi-animation > .ladi-shape {
+    animation-name: shake;
+    -webkit-animation-name: shake;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE602 svg:last-child {
+    fill: rgba(244, 64, 37, 1);
+  }
+  #GALLERY612 {
+    width: 480px;
+    height: 560px;
+    top: 23px;
+    left: 526px;
+  }
+  #GALLERY612 > .ladi-gallery > .ladi-gallery-view {
+    left: 70px;
+    width: calc(100% - 70px);
+  }
+  #GALLERY612 > .ladi-gallery > .ladi-gallery-control {
+    width: 70px;
+  }
+  #GALLERY612
+    > .ladi-gallery
+    > .ladi-gallery-control
+    > .ladi-gallery-control-box
+    > .ladi-gallery-control-item {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 0px;
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='0'] {
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='0'] {
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='1'] {
+    background-image: url('../images/z2291868014912_bca29fdc5a508f97f0870745dbe89be7-20210122044638_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='1'] {
+    background-image: url('../images/z2291868014912_bca29fdc5a508f97f0870745dbe89be7-20210122044638.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='2'] {
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='2'] {
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='3'] {
+    background-image: url('../images/z2267268128432_9d803b009d7460c59c2061b4f4616b91-20210122050305_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='3'] {
+    background-image: url('../images/z2267268128432_9d803b009d7460c59c2061b4f4616b91-20210122050305.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='4'] {
+    background-image: url('../images/z2273283295165_bcfa5d92208c8f75259b8694b1ae7fc1-20210122045144_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='4'] {
+    background-image: url('../images/z2273283295165_bcfa5d92208c8f75259b8694b1ae7fc1-20210122045144.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='5'] {
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='5'] {
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='6'] {
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='6'] {
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='7'] {
+    background-image: url('../images/pc2-20201118094425_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='7'] {
+    background-image: url('../images/pc2-20201118094425.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='8'] {
+    background-image: url('../images/4-3-1024x1024-20201118095326_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='8'] {
+    background-image: url('../images/4-3-1024x1024-20201118095326.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='9'] {
+    background-image: url('../images/em-quynh-1-20201118100403_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='9'] {
+    background-image: url('../images/em-quynh-1-20201118100403.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='10'] {
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='10'] {
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='11'] {
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='11'] {
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='12'] {
+    background-image: url('../images/1-819x1024-20201118094205_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='12'] {
+    background-image: url('../images/1-819x1024-20201118094205.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='13'] {
+    background-image: url('../images/v11-20201119031829_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='13'] {
+    background-image: url('../images/v11-20201119031829.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='14'] {
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525_4.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='14'] {
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='15'] {
+    background-image: url('../images/21433214123515-20201119070938_2.png');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='15'] {
+    background-image: url('../images/21433214123515-20201119070938.png');
+  }
+  #SECTION618 {
+    height: 594.9px;
+  }
+  #SECTION618 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE619 {
+    width: 534.944px;
+    height: 417px;
+    top: 141.95px;
+    left: -86.944px;
+  }
+  #IMAGE619 > .ladi-image > .ladi-image-background {
+    width: 534.944px;
+    height: 534.944px;
+    top: -77.944px;
+    left: 0px;
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957_2.jpg');
+  }
+  #HEADLINE620 {
+    width: 372px;
+    top: 41.9px;
+    left: 60px;
+  }
+  #HEADLINE620 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE621 {
+    height: 126px;
+    top: 41.9px;
+    left: 40px;
+  }
+  #LINE621 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE621 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE622 {
+    width: 488.944px;
+    height: 417px;
+    top: 141.95px;
+    left: 463.528px;
+  }
+  #IMAGE622 > .ladi-image > .ladi-image-background {
+    width: 488.944px;
+    height: 487.671px;
+    top: -29px;
+    left: 0px;
+    background-image: url('../images/z2452184395077_eb4e61ca2f68e8fec22efbc60b3c025a-20210504075912.jpg');
+  }
+}
+
+@media (max-width: 767px) {
+  #SECTION_POPUP {
+    height: 0px;
+  }
+  #SECTION33 {
+    height: 1226.26px;
+  }
+  #BOX35 {
+    width: 332.524px;
+    height: 376.101px;
+    top: 0px;
+    left: 87.4758px;
+  }
+  #BOX35 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      95deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    background: linear-gradient(
+      95deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    border-bottom-left-radius: 1000px;
+  }
+  #BOX37 {
+    width: 87.34px;
+    height: 87.34px;
+    top: 644.136px;
+    left: -34.5002px;
+  }
+  #BOX37 > .ladi-box {
+    background: rgba(129, 215, 150, 0.7);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(129, 215, 150, 0.7),
+      rgba(52, 188, 182, 0.7)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(129, 215, 150, 0.7),
+      rgba(52, 188, 182, 0.7)
+    );
+    border-radius: 500px;
+  }
+  #BOX38 {
+    width: 179.5px;
+    height: 179.5px;
+    top: 1021.76px;
+    left: 330.265px;
+  }
+  #BOX38 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 181, 1)
+    );
+    border-radius: 500px;
+  }
+  #IMAGE39 {
+    width: 207.622px;
+    height: 64.8831px;
+    top: 3.319px;
+    left: 18.7655px;
+  }
+  #IMAGE39 > .ladi-image > .ladi-image-background {
+    width: 207.622px;
+    height: 69.6399px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/mi_design_logo.jpg');
+  }
+  #HEADLINE40 {
+    width: 408px;
+    top: 605.262px;
+    left: 11.7653px;
+  }
+  #HEADLINE40 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 40, 47);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    letter-spacing: 0px;
+    line-height: 1.2;
+  }
+  #HEADLINE41 {
+    width: 360px;
+    top: 605.266px;
+    left: 40.1055px;
+    display: none !important;
+  }
+  #HEADLINE41 > .ladi-headline {
+    color: rgb(34, 40, 47);
+    font-size: 10px;
+    line-height: 1.8;
+  }
+  #BUTTON42 {
+    width: 264.753px;
+    height: 44.9686px;
+    top: 682.476px;
+    left: 29.3183px;
+  }
+  #BUTTON42 > .ladi-button {
+    border-style: solid;
+    border-color: rgb(252, 134, 121);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #BUTTON42.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #BUTTON42 > .ladi-button:hover {
+    border-color: rgb(255, 255, 255);
+  }
+  #BUTTON42 > .ladi-button:hover .ladi-button-background {
+    background-color: rgb(252, 135, 121);
+    background-image: none;
+  }
+  #BUTTON_TEXT42 {
+    width: 322px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT42 > .ladi-headline {
+    color: rgb(244, 64, 37);
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT42 > .ladi-headline:hover {
+    color: rgb(255, 255, 255);
+  }
+  #GROUP44 {
+    width: 381.34px;
+    height: 65.67px;
+    top: 64.596px;
+    left: 40.1055px;
+  }
+  #BOX45 {
+    width: 40.34px;
+    height: 40.34px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX45 > .ladi-box {
+    background-color: rgb(252, 134, 121);
+    border-radius: 500px;
+  }
+  #HEADLINE46 {
+    width: 360px;
+    top: 9.67px;
+    left: 21.34px;
+  }
+  #HEADLINE46 > .ladi-headline {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+  }
+  #SECTION62 {
+    height: 391.49px;
+  }
+  #HEADLINE63 {
+    width: 400px;
+    top: 29px;
+    left: 8.087px;
+  }
+  #HEADLINE63 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #LINE64 {
+    width: 111px;
+    top: 103px;
+    left: 152.587px;
+  }
+  #LINE64 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgb(238, 238, 238);
+    border-right: 2px solid rgb(238, 238, 238);
+    border-bottom: 2px solid rgb(238, 238, 238);
+    border-left: 0px !important;
+  }
+  #LINE64 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #GROUP65 {
+    width: 162.666px;
+    height: 90.5185px;
+    top: 142.759px;
+    left: 30.5px;
+  }
+  #HEADLINE66 {
+    width: 104px;
+    top: 0px;
+    left: 28.7376px;
+  }
+  #HEADLINE66 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE67 {
+    width: 163px;
+    top: 66.1481px;
+    left: 0px;
+  }
+  #HEADLINE67 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP68 {
+    width: 146px;
+    height: 94.1481px;
+    top: 146.241px;
+    left: 234.833px;
+  }
+  #HEADLINE69 {
+    width: 146px;
+    top: 0px;
+    left: 0px;
+  }
+  #HEADLINE69 > .ladi-headline {
+    color: rgb(252, 135, 121);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE70 {
+    width: 146px;
+    top: 66.1481px;
+    left: 0px;
+  }
+  #HEADLINE70 > .ladi-headline {
+    color: rgb(5, 31, 77);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP71 {
+    width: 188.523px;
+    height: 94.1481px;
+    top: 265.741px;
+    left: 20px;
+  }
+  #HEADLINE72 {
+    width: 189px;
+    top: 0px;
+    left: 0px;
+  }
+  #HEADLINE72 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE73 {
+    width: 189px;
+    top: 66.1481px;
+    left: 0px;
+  }
+  #HEADLINE73 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #GROUP74 {
+    width: 211px;
+    height: 94.1481px;
+    top: 265.741px;
+    left: 209px;
+  }
+  #HEADLINE75 {
+    width: 84px;
+    top: 0px;
+    left: 55.8977px;
+  }
+  #HEADLINE75 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE76 {
+    width: 211px;
+    top: 66.1481px;
+    left: 0px;
+  }
+  #HEADLINE76 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LINE77 {
+    height: 91px;
+    top: 146px;
+    left: 201.5px;
+  }
+  #LINE77 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE77 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #LINE78 {
+    height: 91px;
+    top: 136px;
+    left: 628.778px;
+  }
+  #LINE78 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE78 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #LINE79 {
+    height: 91px;
+    top: 269.5px;
+    left: 199.587px;
+  }
+  #LINE79 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  #LINE79 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION210 {
+    height: 1450.01px;
+  }
+  #SECTION210 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #HEADLINE212 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE212 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE216 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE216 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE216 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION242 {
+    height: 549px;
+  }
+  #SECTION242 > .ladi-section-background {
+    background-color: rgb(248, 248, 248);
+  }
+  #GROUP265 {
+    width: 398px;
+    height: 148px;
+    top: 37px;
+    left: 10px;
+  }
+  #LINE266 {
+    width: 86px;
+    top: 79px;
+    left: 157.5px;
+  }
+  #LINE266 > .ladi-line > .ladi-line-container {
+    border-top: 2px solid rgba(252, 135, 121, 0.2);
+    border-right: 2px solid rgba(252, 135, 121, 0.2);
+    border-bottom: 2px solid rgba(252, 135, 121, 0.2);
+    border-left: 0px !important;
+  }
+  #LINE266 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #PARAGRAPH267 {
+    width: 398px;
+    top: 104px;
+    left: 0px;
+  }
+  #PARAGRAPH267 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE268 {
+    width: 316px;
+    top: 0px;
+    left: 42.0767px;
+  }
+  #HEADLINE268 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #SECTION294 {
+    height: 1162.59px;
+  }
+  #IMAGE295 {
+    width: 420px;
+    height: 230.191px;
+    top: 0px;
+    left: 0px;
+  }
+  #IMAGE295 > .ladi-image > .ladi-overlay {
+    background: rgba(255, 255, 255, 0);
+    background: -webkit-linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 1)
+    );
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 1)
+    );
+  }
+  #IMAGE295 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 630px;
+    top: -354px;
+    left: 0px;
+    background-image: url('../images/kfbxlz5p20200414062617.jpg');
+  }
+  #HEADLINE296 {
+    width: 360px;
+    top: 239.096px;
+    left: 30px;
+  }
+  #HEADLINE296 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 26px;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  #GROUP297 {
+    width: 360px;
+    height: 429.4px;
+    top: 706.191px;
+    left: 30px;
+  }
+  #BOX298 {
+    width: 360px;
+    height: 429.4px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX298 > .ladi-box {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+  }
+  #FORM299 {
+    width: 280.47px;
+    height: 254px;
+    top: 157.45px;
+    left: 40.5935px;
+  }
+  #FORM299 > .ladi-form {
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+  }
+  #FORM299 .ladi-form-item .ladi-form-control::placeholder,
+  #FORM299
+    .ladi-form
+    .ladi-form-item
+    .ladi-form-control-select[data-selected=''],
+  #FORM299
+    .ladi-form
+    .ladi-form-item.ladi-form-checkbox
+    .ladi-form-checkbox-item
+    span[data-checked='false'] {
+    color: rgba(34, 41, 47, 1);
+  }
+  #FORM299 .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #FORM299 .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  #FORM299 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20rgba(34%2C%2041%2C%2047%2C%201.0)%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E');
+  }
+  #FORM299 .ladi-form-item-container {
+    border-color: rgb(10, 103, 233);
+    border-width: 1px;
+    border-radius: 0px;
+  }
+  #FORM299 .ladi-form-item-container .ladi-form-quantity button {
+    background-color: rgb(10, 103, 233);
+  }
+  #FORM299 .ladi-form-item-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #BUTTON300 {
+    width: 280.47px;
+    height: 40px;
+    top: 214px;
+    left: 0px;
+  }
+  #BUTTON300 > .ladi-button > .ladi-button-background {
+    background-color: rgb(34, 41, 47);
+  }
+  #BUTTON300 > .ladi-button {
+    border-radius: 0px;
+  }
+  #BUTTON_TEXT300 {
+    width: 280px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT300 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #FORM_ITEM302 {
+    width: 279.657px;
+    height: 40px;
+    top: 0px;
+    left: 0px;
+  }
+  #FORM_ITEM304 {
+    width: 279.657px;
+    height: 40px;
+    top: 48px;
+    left: 0px;
+  }
+  #HEADLINE305 {
+    width: 280px;
+    top: 35.704px;
+    left: 40px;
+  }
+  #HEADLINE305 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.4;
+  }
+  #LIST_PARAGRAPH308 {
+    width: 360px;
+    top: 329.591px;
+    left: 30px;
+  }
+  #LIST_PARAGRAPH308 > .ladi-list-paragraph {
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH308 ul li {
+    padding-bottom: 20px;
+    padding-left: 20px;
+  }
+  #LIST_PARAGRAPH308 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201536%201896.0833%22%20fill%3D%22rgba(5%2C%2034%2C%2074%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M768%20256q-130%200-248.5%2051t-204%20136.5-136.5%20204T128%20896t51%20248.5%20136.5%20204%20204%20136.5%20248.5%2051%20248.5-51%20204-136.5%20136.5-204%2051-248.5-51-248.5-136.5-204-204-136.5T768%20256zm768%20640q0%20209-103%20385.5T1153.5%201561%20768%201664t-385.5-103T103%201281.5%200%20896t103-385.5T382.5%20231%20768%20128t385.5%20103T1433%20510.5%201536%20896z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 10px;
+    height: 10px;
+    top: 6px;
+  }
+  #HEADLINE326 {
+    width: 360px;
+    top: 307.191px;
+    left: 30px;
+  }
+  #HEADLINE326 > .ladi-headline {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    line-height: 1.6;
+  }
+  #SECTION327 {
+    height: 532.59px;
+  }
+  #SECTION327 > .ladi-section-background {
+    background: rgba(128, 215, 149, 1);
+    background: -webkit-linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+    background: linear-gradient(
+      180deg,
+      rgba(128, 215, 149, 1),
+      rgba(52, 188, 182, 1)
+    );
+  }
+  #GROUP328 {
+    width: 405.066px;
+    height: 190.5px;
+    top: 42px;
+    left: 14.5px;
+  }
+  #HEADLINE329 {
+    width: 241px;
+    top: 0px;
+    left: 3.06581px;
+  }
+  #HEADLINE329 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP330 {
+    width: 402px;
+    height: 23px;
+    top: 67.5px;
+    left: 3.06581px;
+  }
+  #SHAPE331 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE331 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE332 {
+    width: 369px;
+    top: 4px;
+    left: 33px;
+  }
+  #HEADLINE332 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP333 {
+    width: 325px;
+    height: 22.5469px;
+    top: 101.286px;
+    left: 3.06581px;
+  }
+  #SHAPE334 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE334 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE335 {
+    width: 292px;
+    top: 2px;
+    left: 33px;
+  }
+  #HEADLINE335 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP336 {
+    width: 325px;
+    height: 22.5469px;
+    top: 134.62px;
+    left: 3.06581px;
+  }
+  #SHAPE337 {
+    width: 22.5469px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE337 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE338 {
+    width: 292px;
+    top: 2px;
+    left: 33px;
+  }
+  #HEADLINE338 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP339 {
+    width: 327px;
+    height: 22.5469px;
+    top: 167.953px;
+    left: 0px;
+  }
+  #SHAPE340 {
+    width: 28.7993px;
+    height: 22.5469px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE340 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #HEADLINE341 {
+    width: 292px;
+    top: 3px;
+    left: 35px;
+  }
+  #HEADLINE341 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #GROUP342 {
+    width: 437px;
+    height: 98.1735px;
+    top: 269.5px;
+    left: 23.0329px;
+  }
+  #HEADLINE343 {
+    width: 283px;
+    top: 0px;
+    left: 0px;
+  }
+  #HEADLINE343 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #GROUP344 {
+    width: 243.65px;
+    height: 22.6801px;
+    top: 40.5px;
+    left: 1px;
+  }
+  #HEADLINE345 {
+    width: 211px;
+    top: 0px;
+    left: 32.65px;
+  }
+  #HEADLINE345 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE346 {
+    width: 22.6801px;
+    height: 22.6801px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE346 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP347 {
+    width: 242.65px;
+    height: 19px;
+    top: 73.059px;
+    left: 2px;
+  }
+  #HEADLINE348 {
+    width: 211px;
+    top: 0px;
+    left: 31.65px;
+  }
+  #HEADLINE348 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE349 {
+    width: 18.4385px;
+    height: 18.4658px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE349 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP350 {
+    width: 176px;
+    height: 22px;
+    top: 36.5px;
+    left: 255px;
+  }
+  #HEADLINE351 {
+    width: 141px;
+    top: 3px;
+    left: 35px;
+  }
+  #HEADLINE351 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE352 {
+    width: 21.3362px;
+    height: 21.3362px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE352 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #GROUP353 {
+    width: 179.65px;
+    height: 24.6135px;
+    top: 73.56px;
+    left: 257.35px;
+  }
+  #HEADLINE354 {
+    width: 147px;
+    top: 0px;
+    left: 32.65px;
+  }
+  #HEADLINE354 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    text-align: left;
+    line-height: 1.4;
+  }
+  #SHAPE355 {
+    width: 22.2998px;
+    height: 24.6135px;
+    top: 0px;
+    left: 0px;
+  }
+  #SHAPE355 svg:last-child {
+    fill: rgba(255, 255, 255, 1);
+  }
+  #FRAME356 {
+    width: 196px;
+    height: 41.306px;
+    top: 406.673px;
+    left: 26.066px;
+  }
+  #FRAME356 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #IMAGE357 {
+    width: 35.5258px;
+    height: 22.6523px;
+    top: 9.805px;
+    left: 60.688px;
+  }
+  #IMAGE357 > .ladi-image > .ladi-image-background {
+    width: 35.5258px;
+    height: 22.6523px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../fonts/mastercard-20200311062250-20200312040745.svg');
+  }
+  #IMAGE358 {
+    width: 35.526px;
+    height: 22.6523px;
+    top: 9.805px;
+    left: 18.532px;
+  }
+  #IMAGE358 > .ladi-image > .ladi-image-background {
+    width: 35.526px;
+    height: 22.6523px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../fonts/visa-20200311062250-20200312040726.svg');
+  }
+  #IMAGE359 {
+    width: 79.4545px;
+    height: 30.4573px;
+    top: 6px;
+    left: 100.214px;
+  }
+  #IMAGE359 > .ladi-image > .ladi-image-background {
+    width: 79.4545px;
+    height: 30.4573px;
+    top: 0px;
+    left: 0px;
+    background-image: url('fonts/bo-cong-thuong-20200311062345-20200312040731.svg');
+  }
+  #LINE360 {
+    width: 372px;
+    top: 453.979px;
+    left: 26.066px;
+  }
+  #LINE360 > .ladi-line > .ladi-line-container {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-right: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-left: 0px !important;
+  }
+  #LINE360 > .ladi-line {
+    width: 100%;
+    padding: 8px 0px;
+  }
+  #HEADLINE361 {
+    width: 391px;
+    top: 473.979px;
+    left: 26.066px;
+  }
+  #HEADLINE361 > .ladi-headline {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 12px;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #SECTION425 {
+    height: 692.5px;
+  }
+  #SECTION425 > .ladi-section-background {
+    background-color: rgb(234, 242, 255);
+  }
+  #GROUP456 {
+    width: 590px;
+    height: 107.5px;
+    top: 34px;
+    left: -85px;
+  }
+  #HEADLINE457 {
+    width: 323px;
+    top: 0px;
+    left: 133.5px;
+  }
+  #HEADLINE457 > .ladi-headline {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #PARAGRAPH458 {
+    width: 590px;
+    top: 85.5px;
+    left: 0px;
+  }
+  #PARAGRAPH458 > .ladi-paragraph {
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #FORM_ITEM459 {
+    width: 280.47px;
+    height: 100px;
+    top: 98px;
+    left: 0px;
+  }
+  #CAROUSEL460 {
+    width: 420px;
+    height: 353px;
+    top: 196px;
+    left: 0px;
+  }
+  #SHAPE462 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -25.6245px;
+  }
+  #SHAPE462 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE462 svg:last-child {
+    fill: url('index.html#SHAPE462_desktop_gradient');
+  }
+  #SHAPE463 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE463 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH464 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH464 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE465 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE465 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/setvr-20200226032418.jpg');
+  }
+  #IMAGE465 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE466 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE466 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE467 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE467 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME461 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 71px;
+  }
+  #FRAME461 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME461 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #SHAPE470 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -25.6245px;
+  }
+  #SHAPE470 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE470 svg:last-child {
+    fill: url('index.html#SHAPE470_desktop_gradient');
+  }
+  #SHAPE471 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE471 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH472 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH472 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE473 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE473 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/ryer5vy-20200226032419.jpg');
+  }
+  #IMAGE473 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE474 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE474 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE475 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE475 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME469 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 491px;
+  }
+  #FRAME469 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME469 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #SHAPE477 {
+    width: 319.249px;
+    height: 189.132px;
+    top: 248.392px;
+    left: -25.6245px;
+  }
+  #SHAPE477 > .ladi-shape {
+    transform: rotate(-165deg);
+    -webkit-transform: rotate(-165deg);
+  }
+  #SHAPE477 svg:last-child {
+    fill: url('index.html#SHAPE477_desktop_gradient');
+  }
+  #SHAPE478 {
+    width: 28.3984px;
+    height: 23.6646px;
+    top: 28.896px;
+    left: 24.001px;
+  }
+  #SHAPE478 svg:last-child {
+    fill: rgba(252, 135, 121, 1);
+  }
+  #PARAGRAPH479 {
+    width: 240px;
+    top: 63.938px;
+    left: 19px;
+  }
+  #PARAGRAPH479 > .ladi-paragraph {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(34, 41, 47);
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #IMAGE480 {
+    width: 80px;
+    height: 80px;
+    top: 215px;
+    left: 97px;
+  }
+  #IMAGE480 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/fdsvrt-20200226032418.jpg');
+  }
+  #IMAGE480 > .ladi-image {
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-width: 3px;
+    border-radius: 270px;
+  }
+  #HEADLINE481 {
+    width: 226px;
+    top: 304.896px;
+    left: 27px;
+  }
+  #HEADLINE481 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #HEADLINE482 {
+    width: 204px;
+    top: 325.389px;
+    left: 39px;
+  }
+  #HEADLINE482 > .ladi-headline {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.2;
+  }
+  #FRAME476 {
+    width: 278px;
+    height: 353px;
+    top: 0px;
+    left: 911px;
+  }
+  #FRAME476 > .ladi-frame > .ladi-frame-background {
+    background-color: rgb(255, 255, 255);
+  }
+  #FRAME476 > .ladi-frame {
+    box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0px 0px 30px -15px rgba(0, 0, 0, 0.2);
+  }
+  #CAROUSEL483 {
+    width: 420px;
+    height: 524px;
+    top: 168.5px;
+    left: 0px;
+  }
+  #BOX486 {
+    width: 301px;
+    height: 473px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX486 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH487 {
+    width: 267px;
+    top: 159.5px;
+    left: 15.485px;
+  }
+  #PARAGRAPH487 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH488 {
+    width: 286px;
+    top: 242px;
+    left: 15.485px;
+  }
+  #LIST_PARAGRAPH488 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH488 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH488 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX489 {
+    width: 91px;
+    height: 91px;
+    top: 40.5px;
+    left: 101.485px;
+  }
+  #BOX489 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH490 {
+    width: 263px;
+    top: 149px;
+    left: 15.485px;
+  }
+  #PARAGRAPH490 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT491 {
+    width: 176px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT491 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT491.ladi-animation > .ladi-headline {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #BUTTON491 {
+    width: 175px;
+    height: 40px;
+    top: 404px;
+    left: 59.485px;
+  }
+  #BUTTON491 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON491 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON491.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE493 {
+    width: 55px;
+    height: 55px;
+    top: 57.5px;
+    left: 120.985px;
+  }
+  #SHAPE493 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP485 {
+    width: 301.485px;
+    height: 473px;
+    top: 0px;
+    left: 59.2575px;
+  }
+  #BOX496 {
+    width: 301px;
+    height: 49px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX496 > .ladi-box {
+    background-color: rgb(13, 98, 242);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+  }
+  #PARAGRAPH497 {
+    width: 263px;
+    top: 15px;
+    left: 14.485px;
+  }
+  #PARAGRAPH497 > .ladi-paragraph {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BOX498 {
+    width: 301px;
+    height: 413px;
+    top: 49px;
+    left: 0px;
+  }
+  #BOX498 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH499 {
+    width: 301px;
+    top: 208.5px;
+    left: 0px;
+  }
+  #PARAGRAPH499 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH500 {
+    width: 216px;
+    top: 291px;
+    left: 37.485px;
+  }
+  #LIST_PARAGRAPH500 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH500 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH500 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX501 {
+    width: 91px;
+    height: 91px;
+    top: 89.5px;
+    left: 101.485px;
+  }
+  #BOX501 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH502 {
+    width: 263px;
+    top: 198px;
+    left: 15.485px;
+  }
+  #PARAGRAPH502 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT503 {
+    width: 176px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT503 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON503 {
+    width: 175px;
+    height: 40px;
+    top: 378px;
+    left: 57.985px;
+  }
+  #BUTTON503 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON503 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON503.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE505 {
+    width: 55px;
+    height: 55px;
+    top: 106.5px;
+    left: 120.985px;
+  }
+  #SHAPE505 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP495 {
+    width: 301px;
+    height: 462px;
+    top: 0px;
+    left: 899.5px;
+  }
+  #BOX509 {
+    width: 301px;
+    height: 473px;
+    top: 0px;
+    left: 1px;
+  }
+  #BOX509 > .ladi-box {
+    background-color: rgb(255, 255, 255);
+  }
+  #PARAGRAPH510 {
+    width: 302px;
+    top: 159.5px;
+    left: 0px;
+  }
+  #PARAGRAPH510 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH511 {
+    width: 216px;
+    top: 242px;
+    left: 38.485px;
+  }
+  #LIST_PARAGRAPH511 > .ladi-list-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  #LIST_PARAGRAPH511 ul li {
+    padding-bottom: 10px;
+    padding-left: 28px;
+  }
+  #LIST_PARAGRAPH511 ul li:before {
+    content: '';
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%25%22%20%20viewBox%3D%220%200%201792%201896.0833%22%20fill%3D%22rgba(13%2C%2098%2C%20242%2C%201.0)%22%3E%20%3Cpath%20d%3D%22M1671%20566q0%2040-28%2068l-724%20724-136%20136q-28%2028-68%2028t-68-28l-136-136-362-362q-28-28-28-68t28-68l136-136q28-28%2068-28t68%2028l294%20295%20656-657q28-28%2068-28t68%2028l136%20136q28%2028%2028%2068z%22%3E%3C%2Fpath%3E%20%3C%2Fsvg%3E');
+    width: 14px;
+    height: 14px;
+    top: 6px;
+  }
+  #BOX512 {
+    width: 91px;
+    height: 91px;
+    top: 40.5px;
+    left: 102.485px;
+  }
+  #BOX512 > .ladi-box {
+    border-style: solid;
+    border-color: rgb(5, 31, 77);
+    border-width: 1px;
+    border-radius: 100px;
+  }
+  #PARAGRAPH513 {
+    width: 263px;
+    top: 149px;
+    left: 16.485px;
+  }
+  #PARAGRAPH513 > .ladi-paragraph {
+    color: rgb(5, 31, 77);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON_TEXT514 {
+    width: 176px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT514 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON514 {
+    width: 175px;
+    height: 40px;
+    top: 388px;
+    left: 60.485px;
+  }
+  #BUTTON514 > .ladi-button > .ladi-button-background {
+    background-color: rgb(242, 67, 13);
+  }
+  #BUTTON514 > .ladi-button {
+    border-color: rgb(255, 94, 47);
+    border-width: 1px;
+    border-radius: 1000px;
+  }
+  #BUTTON514.ladi-animation > .ladi-button {
+    animation-name: pulse;
+    -webkit-animation-name: pulse;
+    animation-delay: 1s;
+    -webkit-animation-delay: 1s;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE516 {
+    width: 55px;
+    height: 55px;
+    top: 57.5px;
+    left: 121.985px;
+  }
+  #SHAPE516 svg:last-child {
+    fill: rgba(5, 31, 77, 1);
+  }
+  #GROUP508 {
+    width: 302px;
+    height: 473px;
+    top: 0px;
+    left: 479px;
+  }
+  #SHAPE518 {
+    width: 80px;
+    height: 80px;
+    top: auto;
+    left: 2px;
+    bottom: 2px;
+    right: auto;
+    position: fixed;
+    z-index: 90000050;
+    margin-left: calc((100% - 420px) / 2);
+  }
+  #SHAPE518.ladi-animation > .ladi-shape {
+    animation-name: tada;
+    -webkit-animation-name: tada;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE518 svg:last-child {
+    fill: url('index.html#SHAPE518_desktop_gradient');
+  }
+  #FORM_ITEM398 {
+    width: 225.82px;
+    height: 113.135px;
+    top: 91.8648px;
+    left: 0.245147px;
+  }
+  #HEADLINE391 {
+    width: 47px;
+    top: 19.892px;
+    left: 184.669px;
+  }
+  #HEADLINE391 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE390 {
+    width: 47px;
+    top: 19.892px;
+    left: 124.27px;
+  }
+  #HEADLINE390 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE389 {
+    width: 47px;
+    top: 19.892px;
+    left: 63.8758px;
+  }
+  #HEADLINE389 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #HEADLINE388 {
+    width: 47px;
+    top: 19.892px;
+    left: 3.47987px;
+  }
+  #HEADLINE388 > .ladi-headline {
+    color: rgb(228, 228, 228);
+    font-size: 12px;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #COUNTDOWN383 {
+    width: 231.773px;
+    height: 25.892px;
+    top: 0px;
+    left: 0px;
+  }
+  #COUNTDOWN383 > .ladi-countdown {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+  }
+  #COUNTDOWN383 > .ladi-countdown > .ladi-element {
+    width: calc((100% - 10px * 3) / 4);
+    margin-right: 10px;
+    height: 100%;
+  }
+  #GROUP382 {
+    width: 231.773px;
+    height: 38.892px;
+    top: 8.554px;
+    left: 34.3088px;
+  }
+  #BOX381 {
+    width: 300.39px;
+    height: 56px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX381 > .ladi-box {
+    background-color: rgba(6, 34, 75, 0.9);
+    border-radius: 0px;
+  }
+  #GROUP380 {
+    width: 300.39px;
+    height: 56px;
+    top: 0px;
+    left: 0px;
+  }
+  #FORM_ITEM378 {
+    width: 224.13px;
+    height: 40px;
+    top: 45px;
+    left: 0.325934px;
+  }
+  #FORM_ITEM376 {
+    width: 224.13px;
+    height: 40px;
+    top: 0px;
+    left: 0.325934px;
+  }
+  #BUTTON_TEXT374 {
+    width: 220px;
+    top: 9px;
+    left: 0px;
+  }
+  #BUTTON_TEXT374 > .ladi-headline {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+  }
+  #BUTTON374 {
+    width: 224.782px;
+    height: 40px;
+    top: 214px;
+    left: 0px;
+  }
+  #BUTTON374 > .ladi-button > .ladi-button-background {
+    background-color: rgb(244, 64, 37);
+  }
+  #BUTTON374 > .ladi-button {
+    border-radius: 0px;
+  }
+  #FORM373 {
+    width: 226.065px;
+    height: 254px;
+    top: 20.473px;
+    left: 37.8042px;
+  }
+  #FORM373 > .ladi-form {
+    color: rgb(132, 132, 132);
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 1.6;
+  }
+  #FORM373 .ladi-form-item .ladi-form-control::placeholder,
+  #FORM373
+    .ladi-form
+    .ladi-form-item
+    .ladi-form-control-select[data-selected=''],
+  #FORM373
+    .ladi-form
+    .ladi-form-item.ladi-form-checkbox
+    .ladi-form-checkbox-item
+    span[data-checked='false'] {
+    color: rgba(132, 132, 132, 1);
+  }
+  #FORM373 .ladi-form-item {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #FORM373 .ladi-form-item.ladi-form-checkbox {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  #FORM373 .ladi-form-item-container .ladi-form-item .ladi-form-control-select {
+    background-image: url('data:image/svg+xml;utf8, %3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20version%3D%221.1%22%20width%3D%2232%22%20height%3D%2224%22%20viewBox%3D%220%200%2032%2024%22%3E%3Cpolygon%20points%3D%220%2C0%2032%2C0%2016%2C24%22%20style%3D%22fill%3A%20rgba(132%2C%20132%2C%20132%2C%201.0)%22%3E%3C%2Fpolygon%3E%3C%2Fsvg%3E');
+  }
+  #FORM373 .ladi-form-item-container {
+    border-style: solid;
+    border-color: rgb(10, 103, 233);
+    border-width: 1px;
+    border-radius: 0px;
+  }
+  #FORM373 .ladi-form-item-container .ladi-form-quantity button {
+    background-color: rgb(10, 103, 233);
+  }
+  #BOX371 {
+    width: 300.39px;
+    height: 277.946px;
+    top: 0px;
+    left: 0px;
+  }
+  #BOX371 > .ladi-box {
+    box-shadow: 2px 7px 15px 0px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 2px 7px 15px 0px rgba(0, 0, 0, 0.2);
+    background-color: rgb(255, 255, 255);
+  }
+  #GROUP370 {
+    width: 300.39px;
+    height: 277.946px;
+    top: 56px;
+    left: 0px;
+  }
+  #GROUP369 {
+    width: 300.39px;
+    height: 333.946px;
+    top: 199.027px;
+    left: 35.805px;
+  }
+  #IMAGE364 {
+    width: 194px;
+    height: 357px;
+    top: 0px;
+    left: 178px;
+    display: none !important;
+  }
+  #IMAGE364 > .ladi-image > .ladi-image-background {
+    width: 533.416px;
+    height: 357px;
+    top: 0px;
+    left: -100px;
+    background-image: url('../images/nfyksztg20200521045814_1.jpg');
+  }
+  #POPUP362 {
+    width: 372px;
+    height: 540px;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  #IMAGE211 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE211 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 524.002px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/1-819x1024-20201118094205_2.jpg');
+  }
+  #IMAGE519 {
+    width: 420px;
+    height: 519.002px;
+    top: 931.004px;
+    left: 0px;
+  }
+  #IMAGE519 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 519.002px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/pc2-20201118094425_4.jpg');
+  }
+  #IMAGE520 {
+    width: 420px;
+    height: 290.002px;
+    top: 641.002px;
+    left: 0px;
+  }
+  #IMAGE520 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 290.002px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525_1.jpg');
+  }
+  #IMAGE535 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE535 > .ladi-image > .ladi-image-background {
+    width: 806.884px;
+    height: 524.002px;
+    top: 0px;
+    left: -265px;
+    background-image: url('../images/pc-2-1024x666-20201118100338_1.jpg');
+  }
+  #HEADLINE536 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE536 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE537 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE537 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE537 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #SECTION534 {
+    height: 1189px;
+  }
+  #SECTION534 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE541 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE541 > .ladi-image > .ladi-image-background {
+    width: 442.196px;
+    height: 557.829px;
+    top: -33.827px;
+    left: -19.1955px;
+    background-image: url('../images/em-quynh-1-20201118100403_4.jpg');
+  }
+  #IMAGE543 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE543 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 524.002px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/2-819x1024-20201118100204_1.jpg');
+  }
+  #HEADLINE544 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE544 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE545 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE545 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE545 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE546 {
+    width: 420px;
+    height: 519.002px;
+    top: 1062.01px;
+    left: 0px;
+  }
+  #IMAGE546 > .ladi-image > .ladi-image-background {
+    width: 519.002px;
+    height: 519.002px;
+    top: 0px;
+    left: -52px;
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340_4.jpg');
+  }
+  #IMAGE547 {
+    width: 420px;
+    height: 421.008px;
+    top: 641.002px;
+    left: 0px;
+  }
+  #IMAGE547 > .ladi-image > .ladi-image-background {
+    width: 749.76px;
+    height: 421.008px;
+    top: 0px;
+    left: -172px;
+    background-image: url('../images/z1144237309678_c06f9668cb6b2364ee6c067be7c08393-1024x576-20201118100251_1.jpg');
+  }
+  #SECTION542 {
+    height: 1581.01px;
+  }
+  #SECTION542 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE549 {
+    width: 420px;
+    height: 490.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE549 > .ladi-image > .ladi-image-background {
+    width: 654.188px;
+    height: 490.002px;
+    top: 0px;
+    left: -169px;
+    background-image: url('../images/nha-ong-thao-4-1024x768-20201118095314_1.jpg');
+  }
+  #HEADLINE550 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE550 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE551 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE551 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE551 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE552 {
+    width: 420px;
+    height: 524.002px;
+    top: 631.002px;
+    left: 0px;
+  }
+  #IMAGE552 > .ladi-image > .ladi-image-background {
+    width: 524.002px;
+    height: 524.002px;
+    top: 0px;
+    left: -66px;
+    background-image: url('../images/4-3-1024x1024-20201118095326_2.jpg');
+  }
+  #SECTION548 {
+    height: 1155px;
+  }
+  #SECTION548 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE554 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE554 > .ladi-image > .ladi-image-background {
+    width: 933.179px;
+    height: 524.002px;
+    top: 0px;
+    left: -251px;
+    background-image: url('../images/z1133908152162_1497fabc4714e0ca1b96b61ce443f81f-1024x576-20201118110524_1.jpg');
+  }
+  #HEADLINE555 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE555 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE556 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE556 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE556 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE557 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE557 > .ladi-image > .ladi-image-background {
+    width: 698.669px;
+    height: 524.002px;
+    top: 0px;
+    left: -140px;
+    background-image: url('../images/chi-giang-thuy-nguyen-hai-phong-6860-4-20201118110540_1.jpg');
+  }
+  #SECTION553 {
+    height: 1189px;
+  }
+  #SECTION553 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE559 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE559 > .ladi-image > .ladi-image-background {
+    width: 699.58px;
+    height: 524.002px;
+    top: 0.000184px;
+    left: -152px;
+    background-image: url('../images/nha-ong-thao-3-1024x768-20201118094826.jpg');
+  }
+  #HEADLINE560 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE560 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE561 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE561 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE561 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE562 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE562 > .ladi-image > .ladi-image-background {
+    width: 524.002px;
+    height: 524.002px;
+    top: 0px;
+    left: -66px;
+    background-image: url('../images/e-dieu-ha-thao-phu-xuyen-hn-6849-833x1024-20201118110721_1.jpg');
+  }
+  #SECTION558 {
+    height: 1189px;
+  }
+  #SECTION558 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE563 {
+    width: 438.643px;
+    height: 442.766px;
+    top: 751.477px;
+    left: -5.1115px;
+  }
+  #IMAGE563 > .ladi-image > .ladi-image-background {
+    width: 438.643px;
+    height: 469.714px;
+    top: -3.14017px;
+    left: 0px;
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743_3.jpg');
+  }
+  #IMAGE564 {
+    width: 206px;
+    height: 395.002px;
+    top: 751.477px;
+    left: 474px;
+    display: none !important;
+  }
+  #IMAGE564 > .ladi-image > .ladi-image-background {
+    width: 527.355px;
+    height: 395.001px;
+    top: 0.000745px;
+    left: -170.225px;
+    background-image: url('../images/z2469639049911_3831ca0b2c016f3855bd8e62766942c8-20210504084814.jpg');
+  }
+  #IMAGE566 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE566 > .ladi-image > .ladi-image-background {
+    width: 699.58px;
+    height: 524.002px;
+    top: 0px;
+    left: -190px;
+    background-image: url('../images/z752118047590_eb6325a4535d83e26116ea739f193e52-20201119030959_1.jpg');
+  }
+  #HEADLINE567 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE567 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE568 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE568 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE568 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE569 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE569 > .ladi-image > .ladi-image-background {
+    width: 857.774px;
+    height: 524.002px;
+    top: 0px;
+    left: -248px;
+    background-image: url('../images/v11-20201119031829_2.jpg');
+  }
+  #SECTION565 {
+    height: 1189px;
+  }
+  #SECTION565 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE571 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE571 > .ladi-image > .ladi-image-background {
+    width: 515.835px;
+    height: 619.002px;
+    top: -56px;
+    left: -48.6666px;
+    background-image: url('../images/901cac0bd622397c6033-20201119032917_1.jpg');
+  }
+  #HEADLINE572 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE572 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE573 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE573 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE573 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE574 {
+    width: 420px;
+    height: 524.002px;
+    top: 1185px;
+    left: 0px;
+  }
+  #IMAGE574 > .ladi-image > .ladi-image-background {
+    width: 525.367px;
+    height: 587.002px;
+    top: -46px;
+    left: -77.385px;
+    background-image: url('../images/z895131440637_a9395fcbe8c40909aec9e69aaa8562fb-20201119033231.jpg');
+  }
+  #SECTION570 {
+    height: 1723px;
+  }
+  #SECTION570 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE575 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE575 > .ladi-image > .ladi-image-background {
+    width: 486.844px;
+    height: 646.238px;
+    top: -37px;
+    left: -44.8444px;
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450_3.jpg');
+  }
+  #IMAGE577 {
+    width: 534.045px;
+    height: 856.002px;
+    top: 117px;
+    left: -21px;
+  }
+  #IMAGE577 > .ladi-image > .ladi-image-background {
+    width: 666.474px;
+    height: 856.002px;
+    top: 0px;
+    left: -132.429px;
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636_4.jpg');
+  }
+  #HEADLINE578 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE578 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE579 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE579 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE579 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE580 {
+    width: 523px;
+    height: 861.002px;
+    top: 993px;
+    left: -30px;
+  }
+  #IMAGE580 > .ladi-image > .ladi-image-background {
+    width: 861.002px;
+    height: 861.002px;
+    top: 0px;
+    left: -169px;
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036_3.jpg');
+  }
+  #SECTION576 {
+    height: 1854px;
+  }
+  #SECTION576 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE582 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE582 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 594.691px;
+    top: -24px;
+    left: 0px;
+    background-image: url('../images/v1-20201119070033_1.jpg');
+  }
+  #HEADLINE583 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE583 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE584 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE584 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE584 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE585 {
+    width: 420px;
+    height: 524.002px;
+    top: 651.002px;
+    left: 0px;
+  }
+  #IMAGE585 > .ladi-image > .ladi-image-background {
+    width: 420px;
+    height: 594.69px;
+    top: -32px;
+    left: 0px;
+    background-image: url('../images/26133471_1736099936456197_756279649_n-20201119070245_1.jpg');
+  }
+  #SECTION581 {
+    height: 1175px;
+  }
+  #SECTION581 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE587 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE587 > .ladi-image > .ladi-image-background {
+    width: 553px;
+    height: 692.151px;
+    top: -125px;
+    left: -85px;
+    background-image: url('../images/21433214123515-20201119070938_3.png');
+  }
+  #HEADLINE588 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE588 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE589 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE589 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE589 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE590 {
+    width: 420px;
+    height: 716.002px;
+    top: 647.002px;
+    left: 0px;
+  }
+  #IMAGE590 > .ladi-image > .ladi-image-background {
+    width: 633.602px;
+    height: 792.002px;
+    top: -76px;
+    left: -97px;
+    background-image: url('../images/2-20201119070901.jpg');
+  }
+  #SECTION586 {
+    height: 2016px;
+  }
+  #SECTION586 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE591 {
+    width: 420px;
+    height: 627.002px;
+    top: 1371px;
+    left: 0px;
+  }
+  #IMAGE591 > .ladi-image > .ladi-image-background {
+    width: 470.251px;
+    height: 627.002px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/nhanhhoi-20201119071232_1.jpg');
+  }
+  #IMAGE599 {
+    width: 80px;
+    height: 75.904px;
+    top: auto;
+    left: 2px;
+    bottom: 80px;
+    right: auto;
+    position: fixed;
+    z-index: 90000050;
+    margin-left: calc((100% - 420px) / 2);
+  }
+  #IMAGE599 > .ladi-image > .ladi-image-background {
+    width: 80px;
+    height: 75.904px;
+    top: 0px;
+    left: 0px;
+    background-image: url('../images/logo-zalo-png-20201117043754.png');
+  }
+  #NOTIFY600 {
+    width: 330px;
+    height: 62px;
+    top: auto;
+    left: auto;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+    z-index: 90000060;
+  }
+  #SHAPE602 {
+    width: 30px;
+    height: 37.0329px;
+    top: 686.444px;
+    left: 328.212px;
+  }
+  #SHAPE602.ladi-animation > .ladi-shape {
+    animation-name: shake;
+    -webkit-animation-name: shake;
+    animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+  }
+  #SHAPE602 svg:last-child {
+    fill: rgba(244, 64, 37, 1);
+  }
+  #GALLERY612 {
+    width: 380px;
+    height: 420px;
+    top: 130.266px;
+    left: 32.9055px;
+  }
+  #GALLERY612 > .ladi-gallery > .ladi-gallery-view {
+    left: 70px;
+    width: calc(100% - 70px);
+  }
+  #GALLERY612 > .ladi-gallery > .ladi-gallery-control {
+    width: 70px;
+  }
+  #GALLERY612
+    > .ladi-gallery
+    > .ladi-gallery-control
+    > .ladi-gallery-control-box
+    > .ladi-gallery-control-item {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 0px;
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='0'] {
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='0'] {
+    background-image: url('../images/z2450723776587_a2fd70acbcdaf6a25e3d30c283e79dda-20210504075743.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='1'] {
+    background-image: url('../images/z2291868014912_bca29fdc5a508f97f0870745dbe89be7-20210122044638_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='1'] {
+    background-image: url('../images/z2291868014912_bca29fdc5a508f97f0870745dbe89be7-20210122044638.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='2'] {
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='2'] {
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='3'] {
+    background-image: url('../images/z2267268128432_9d803b009d7460c59c2061b4f4616b91-20210122050305_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='3'] {
+    background-image: url('../images/z2267268128432_9d803b009d7460c59c2061b4f4616b91-20210122050305.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='4'] {
+    background-image: url('../images/z2273283295165_bcfa5d92208c8f75259b8694b1ae7fc1-20210122045144_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='4'] {
+    background-image: url('../images/z2273283295165_bcfa5d92208c8f75259b8694b1ae7fc1-20210122045144.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='5'] {
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='5'] {
+    background-image: url('../images/phoi-canh-goc-2aacc-1024x1024-20201118095340.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='6'] {
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='6'] {
+    background-image: url('../images/53593420_449302845808518_8194454200952815616_n-1-1024x1024-20201118095036.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='7'] {
+    background-image: url('../images/pc2-20201118094425_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='7'] {
+    background-image: url('../images/pc2-20201118094425.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='8'] {
+    background-image: url('../images/4-3-1024x1024-20201118095326_4.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='8'] {
+    background-image: url('../images/4-3-1024x1024-20201118095326.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='9'] {
+    background-image: url('../images/em-quynh-1-20201118100403_2.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='9'] {
+    background-image: url('../images/em-quynh-1-20201118100403.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='10'] {
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450_4.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='10'] {
+    background-image: url('../images/e8c2543920a1cfff96b0-20201119033450.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='11'] {
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636_1.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='11'] {
+    background-image: url('../images/850f570f36c4d89a81d5-20201119035636.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='12'] {
+    background-image: url('../images/1-819x1024-20201118094205_4.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='12'] {
+    background-image: url('../images/1-819x1024-20201118094205.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='13'] {
+    background-image: url('../images/v11-20201119031829_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='13'] {
+    background-image: url('../images/v11-20201119031829.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='14'] {
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525_3.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='14'] {
+    background-image: url('../images/dc2841fc7d2e9970c03f-20201118094525.jpg');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-view-item[data-index='15'] {
+    background-image: url('../images/21433214123515-20201119070938_4.png');
+  }
+  #GALLERY612 .ladi-gallery .ladi-gallery-control-item[data-index='15'] {
+    background-image: url('../images/21433214123515-20201119070938.png');
+  }
+  #SECTION618 {
+    height: 660px;
+  }
+  #SECTION618 > .ladi-section-background {
+    background-color: rgba(255, 255, 255, 0.4);
+  }
+  #IMAGE619 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 0px;
+  }
+  #IMAGE619 > .ladi-image > .ladi-image-background {
+    width: 524.002px;
+    height: 524.002px;
+    top: 0px;
+    left: -69.002px;
+    background-image: url('../images/z2275067253341_d73d5fdefa8343597870f9ca05a1b6b8-20210122044957_2.jpg');
+  }
+  #HEADLINE620 {
+    width: 387px;
+    top: 22px;
+    left: 33.5px;
+  }
+  #HEADLINE620 > .ladi-headline {
+    color: rgb(34, 41, 47);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    line-height: 1.2;
+  }
+  #LINE621 {
+    height: 126px;
+    top: 21.2875px;
+    left: 11.106px;
+  }
+  #LINE621 > .ladi-line > .ladi-line-container {
+    border-top: 0px !important;
+    border-right: 4px solid rgb(252, 136, 121);
+    border-bottom: 4px solid rgb(252, 136, 121);
+    border-left: 4px solid rgb(252, 136, 121);
+  }
+  #LINE621 > .ladi-line {
+    height: 100%;
+    padding: 0px 8px;
+  }
+  #IMAGE622 {
+    width: 420px;
+    height: 524.002px;
+    top: 117px;
+    left: 451px;
+    display: none !important;
+  }
+  #IMAGE622 > .ladi-image > .ladi-image-background {
+    width: 628.803px;
+    height: 524.002px;
+    top: 0px;
+    left: -181.603px;
+    background-image: url('../images/z2452184395077_eb4e61ca2f68e8fec22efbc60b3c025a-20210504075912_1.jpg');
+  }
+}
